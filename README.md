@@ -1,6 +1,5 @@
-                                                                                                                                                  NIKUNJ SINGHAL
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=1500&pause=800&color=F76E3B&center=true&vCenter=true&width=435&lines=Hello%2C+My+Name+Is+Nikunj+;Welcome+To+My+Profile+;Building+And+Scaling+Systems;Production+Ready+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=1500&pause=800&color=F76E3B&center=true&vCenter=true&width=1000&height=100&lines=Hello%2C+My+Name+Is+Nikunj+;Welcome+To+My+Profile+;Building+And+Scaling+Systems;Production+Ready+Projects)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭 I’m currently working on Various projects<br>🤝 I’m looking for help with projects and problems<br>🌱 I’m currently learning python<br>💬 contact me: nsinghal357@gmail.com
 
