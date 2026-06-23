@@ -20,7 +20,10 @@
 
 <p align="center">
   <!-- Visitor Counter Badge -->
-  <img src="https://profile-counter.glitch.me/NIKUNJ894U/count.svg" alt="Visitors" />
+  <p align="center">
+  <!-- Highly Reliable Visitor Counter Badge -->
+  <img src="https://komarev.com/ghpvc/?username=NIKUNJ894U&color=00f5ff&style=for-the-badge" alt="Visitors" />
+</p>
 </p>
 # Hey There 👋 Here Is My Tech Stack 👇
 ### 💻 Languages
