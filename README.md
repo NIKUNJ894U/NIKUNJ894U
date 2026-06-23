@@ -2,25 +2,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&size=40&duration=1500&pause=800&color=F76E3B&center=true&vCenter=true&width=1000&height=150&lines=Hello%2C+My+Name+Is+Nikunj+;Welcome+To+My+Profile+;Building+And+Scaling+Systems;Production+Ready+Projects)](https://git.io/typing-svg)
 
 # Hey There 👋 Here Is My Tech Stack 👇
-
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=c,py&theme=dark&perline=2" />
 </p>
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=1" />
 </p>
 
 ### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,redis&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=next,nodejs,flask,django,mysql,postgres,mongodb,firebase,supabase&theme=dark&perline=5" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools, Platforms & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,flutter&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=flutter,windows,vercel,npm,webgl,figma,canva,adobe,gitlab,pandas,numpy,matplotlib,scipy,tensorflow,sklearn&theme=dark&perline=5" />
 </p>
 
 ## 🌐 Socials:
