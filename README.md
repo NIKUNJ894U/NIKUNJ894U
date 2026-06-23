@@ -4,12 +4,12 @@
 # Hey There 👋 Here Is My Tech Stack 👇
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py&theme=dark&perline=2" />
+  <img src="https://skillicons.dev/icons?i=c,py,cpp,java,js&theme=dark&perline=5" />
 </p>
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=1" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,react,css,html&theme=dark&perline=5" />
 </p>
 
 ### ⚙️ Backend & Database
@@ -19,7 +19,7 @@
 
 ### 🔧 Tools, Platforms & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,windows,vercel,npm,webgl,figma,canva,adobe,gitlab,pandas,numpy,matplotlib,scipy,tensorflow,sklearn&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=flutter,windows,vercel,npm,webgl,figma,canva,adobe,gitlab,pandas,numpy,matplotlib,scipy,tensorflow,sklearn&theme=dark&perline=8" />
 </p>
 
 ## 🌐 Socials:
