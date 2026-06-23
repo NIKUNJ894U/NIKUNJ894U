@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,windows,linux,vercel,npm,webgl,figma,canva,adobe,gitlab,pandas,numpy,matplotlib,scipy,tensorflow,sklearn&theme=dark&perline=8" />
 </p>
 
-## 📖 Featured Project: NOVELLY
+## 📖 Featured Project: NOVELLY 
 
 **NOVELLY** is a premium, high-fidelity book discovery and rental platform built for the modern reader. The platform bridges the gap between digital discovery and real-world reading by seamlessly connecting users with a network of premium local libraries across India through an elegant, glassmorphic interface.
 
@@ -58,6 +58,7 @@
 *   **🧠 Smart Recommendations** — A personalized engine designed to adapt and learn dynamically from your unique reading habits.
 *   **✨ Adaptive Glassmorphic UI** — A unified dashboard to manage rentals, purchases, and wishlists, featuring snappy, physics-based interactions powered by *Framer Motion*.
 
+Here Is The Demo 👉: https://novelly-rose.vercel.app/
 ---
 
 ### 🛠️ Tech Stack & Architecture
@@ -71,7 +72,7 @@
 | **Iconography** | Lucide React |
 
 ---
-Here Is The Demo 👉: https://novelly-rose.vercel.app/
+
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NIKUNJ894U&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
