@@ -19,7 +19,7 @@
 
 ### 🔧 Tools, Platforms & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,windows,vercel,npm,webgl,figma,canva,adobe,gitlab,pandas,numpy,matplotlib,scipy,tensorflow,sklearn&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,windows,linux,vercel,npm,webgl,figma,canva,adobe,gitlab,pandas,numpy,matplotlib,scipy,tensorflow,sklearn&theme=dark&perline=8" />
 </p>
 
 ## 🌐 Socials:
