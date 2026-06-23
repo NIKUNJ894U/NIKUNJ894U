@@ -47,14 +47,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,windows,linux,vercel,npm,webgl,figma,canva,adobe,gitlab,pandas,numpy,matplotlib,scipy,tensorflow,sklearn&theme=dark&perline=8" />
 </p>
 
-### 🌐 Socials:
-
-<a href="https://www.linkedin.com/in/nikunj-singhal-8238a838a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:nsinghal357@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NIKUNJ894U&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
