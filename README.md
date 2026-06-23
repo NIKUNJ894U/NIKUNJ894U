@@ -1,5 +1,4 @@
-https://readme-typing-svg.demolab.com/demo/?font=Archivo+Black&weight=600&size=32&letterSpacing=medium&color=8D6EF7&background=FFF6B227&center=true&vCenter=true&repeat=false&width=439&height=58&lines=Hello%2C+My+Name+Is+Nikunj+;Welcome+To+My+Profile;Building+And+Scaling+Systems+;Full+Stack
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=600&size=32&letterSpacing=medium&pause=1000&color=8D6EF7&background=FFF6B227&center=true&vCenter=true&repeat=false&width=439&height=58&lines=Hello%2C+My+Name+Is+Nikunj+;Welcome+To+My+Profile;Building+And+Scaling+Systems+;Full+Stack)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭 I’m currently working on Various projects<br>🤝 I’m looking for help with projects and problems<br>🌱 I’m currently learning python<br>💬 contact me: nsinghal357@gmail.com
 
