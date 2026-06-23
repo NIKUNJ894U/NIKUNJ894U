@@ -1,11 +1,27 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NIKUNJ%20SINGHAL&fontSize=50&animation=fadeIn)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&size=40&duration=1500&pause=800&color=F76E3B&center=true&vCenter=true&width=1000&height=150&lines=Hello%2C+My+Name+Is+Nikunj+;Welcome+To+My+Profile+;Building+And+Scaling+Systems;Production+Ready+Projects)](https://git.io/typing-svg)
 
-Hey There 👋 here is my tech stack:
+Hey There 👋 Here Is My  Tech Stack 👇
+
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,react,mongodb,mysql,git,github,vscode,linux,docker,Awa,Gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark&perline=4" />
 </p>
 
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark&perline=4" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,redis&theme=dark&perline=4" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark&perline=5" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikunj-singhal-8238a838a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nsinghal357@gmail.com) 
