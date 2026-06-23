@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=600&size=27&pause=1000&color=E3F751&center=true&width=435&lines=Hello%2C+My+Name+Is+Nikunj+;Welcome+To+My+Profile;Building+And+Scaling+Systems+;Full+Stack)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 🔭 I’m currently working on Various projects<br>🤝 I’m looking for help with projects and problems<br>🌱 I’m currently learning python<br>💬 contact me: nsinghal357@gmail.com
 
@@ -22,4 +25,4 @@
 [![](https://komarev.com/ghpvc/?username=NIKUNJ894U&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NIKUNJ894U&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=600&size=27&pause=1000&color=E3F751&center=true&width=435&lines=Hello%2C+My+Name+Is+Nikunj+;Welcome+To+My+Profile;Building+And+Scaling+Systems+;Full+Stack)](https://git.io/typing-svg)
+
