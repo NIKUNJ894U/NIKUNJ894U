@@ -9,7 +9,7 @@
   &nbsp;
   <!-- Email Badge -->
   <a href="mailto:nsinghal357@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-SG0169690%40GMAIL.COM-d93025?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-nsinghal357@gmail.COM-d93025?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email" />
   </a>
   &nbsp;
   <!-- GitHub Badge -->
