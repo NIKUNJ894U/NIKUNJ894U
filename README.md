@@ -47,6 +47,31 @@
   <img src="https://skillicons.dev/icons?i=flutter,windows,linux,vercel,npm,webgl,figma,canva,adobe,gitlab,pandas,numpy,matplotlib,scipy,tensorflow,sklearn&theme=dark&perline=8" />
 </p>
 
+## 📖 Featured Project: NOVELLY
+
+**NOVELLY** is a premium, high-fidelity book discovery and rental platform built for the modern reader. The platform bridges the gap between digital discovery and real-world reading by seamlessly connecting users with a network of premium local libraries across India through an elegant, glassmorphic interface.
+
+### 🚀 Key Features
+
+*   **📍 Library Locator** — Real-time geolocation using the *Google Maps API* to instantly find and connect with nearby partner libraries.
+*   **📚 Curated Discovery** — Seamless browsing across **60+ hand-picked titles** complete with accurate metadata, rich summaries, and community ratings.
+*   **🧠 Smart Recommendations** — A personalized engine designed to adapt and learn dynamically from your unique reading habits.
+*   **✨ Adaptive Glassmorphic UI** — A unified dashboard to manage rentals, purchases, and wishlists, featuring snappy, physics-based interactions powered by *Framer Motion*.
+
+---
+
+### 🛠️ Tech Stack & Architecture
+
+| Layer | Technologies Used |
+| :--- | :--- |
+| **Core Framework** | React 18 & Vite |
+| **Styling & Design** | Vanilla CSS & Modern UI Tokens |
+| **Animation Engine** | Framer Motion |
+| **Mapping & Location** | Google Maps JavaScript API |
+| **Iconography** | Lucide React |
+
+---
+
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NIKUNJ894U&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
