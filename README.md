@@ -1,6 +1,27 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NIKUNJ%20SINGHAL&fontSize=50&animation=fadeIn)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&size=40&duration=1500&pause=800&color=F76E3B&center=true&vCenter=true&width=1000&height=150&lines=Hello%2C+My+Name+Is+Nikunj+;Welcome+To+My+Profile+;Building+And+Scaling+Systems;Production+Ready+Projects)](https://git.io/typing-svg)
 
+<p align="center">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/nikunj-singhal-8238a838a/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <!-- Email Badge -->
+  <a href="mailto:nsinghal357@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-SG0169690%40GMAIL.COM-d93025?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email" />
+  </a>
+  &nbsp;
+  <!-- GitHub Badge -->
+  <a href="https://github.com/NIKUNJ894U" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Visitor Counter Badge -->
+  <img src="https://profile-counter.glitch.me/NIKUNJ894U/count.svg" alt="Visitors" />
+</p>
 # Hey There 👋 Here Is My Tech Stack 👇
 ### 💻 Languages
 <p align="center">
