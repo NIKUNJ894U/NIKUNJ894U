@@ -20,7 +20,7 @@
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,flutter&theme=dark&perline=5" />
 </p>
 
 ## 🌐 Socials:
